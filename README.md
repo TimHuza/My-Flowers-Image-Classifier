@@ -1,4 +1,4 @@
-# **PROJECT PLAN: Flowers Image Classifier**
+# 🌷🌹**PROJECT PLAN: Flowers Image Classifier**
 
 ## **PHASE 1 — Prepare Your Dataset**
 
