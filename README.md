@@ -1,10 +1,4 @@
-# 🐱🐶**PROJECT PLAN: Cats vs Dogs Image Classifier**
-
-Below is the **complete roadmap** you can follow, from dataset preparation to model saving and testing.
-
-I’ll structure it as phases so you can progress step-by-step.
-
----
+# **PROJECT PLAN: Flowers Image Classifier**
 
 ## **PHASE 1 — Prepare Your Dataset**
 
